@@ -62,3 +62,6 @@ This analysis provides actionable insights for maximizing profitability while co
 ## Contributing
 Contributions to improve the analysis or extend the project are welcome. Please fork the repository and submit a pull request with your proposed changes.
 
+##Volunteer Contributors
+Emanuele Merveille G
+
