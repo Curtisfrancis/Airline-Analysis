@@ -1,7 +1,7 @@
 # Airline Data Analytics Case Study
 
 ## Overview
-This project analyzes data from a leading air transportation company to address challenges affecting profitability and growth. Using SQLite and Python, we aim to increase aircraft occupancy rates and maximize average profit per seat.
+This project analyzes data from a leading air transportation company to address challenges affecting profitability and growth. Using SQLite and Python, the aim is to increase aircraft occupancy rates and maximize average profit per seat.
 
 ## Problem Statement
 The airline faces challenges including:
@@ -10,7 +10,7 @@ The airline faces challenges including:
 - Increased labor costs
 - Rising fuel prices
 
-Our goal is to use data analytics to enhance aircraft occupancy rates and identify opportunities to increase profitability per seat.
+The goal is to use data analytics to enhance aircraft occupancy rates and identify opportunities to increase profitability per seat.
 
 ## Tools and Technologies
 - SQLite
@@ -62,5 +62,3 @@ This analysis provides actionable insights for maximizing profitability while co
 ## Contributing
 Contributions to improve the analysis or extend the project are welcome. Please fork the repository and submit a pull request with your proposed changes.
 
-## License
-[Specify your chosen license here]
