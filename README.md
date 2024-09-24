@@ -14,7 +14,7 @@ The goal is to use data analytics to enhance aircraft occupancy rates and identi
 
 ## Tools and Technologies
 - SQLite
-- Python 3.x
+- Python 3.1.
 - Jupyter Notebook
 
 ### Libraries
